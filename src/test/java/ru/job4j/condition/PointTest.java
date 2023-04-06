@@ -27,8 +27,8 @@ public class PointTest {
     }
 
     @Test
-    public void when2533to7745then53() {
-        double expected = 53.3666;
+    public void when2533to7745then53dot37() {
+        double expected = 53.36;
         int x1 = 25;
         int y1 = 33;
         int x2 = 77;
