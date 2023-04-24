@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2023-04-24T11:35:27.050Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 YaBrowser/23.3.2.806 Yowser/2.5 Safari/537.36" version="21.1.9" etag="qmhOLNhm5q4WPDvDqHt1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-24T11:39:46.580Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 YaBrowser/23.3.2.806 Yowser/2.5 Safari/537.36" etag="pSBmihw7RA3gPbAoGs8-" version="21.1.9" type="github">
   <diagram name="Страница 1" id="xUMVCpgkLv-RNLvxcG1n">
-    <mxGraphModel>
+    <mxGraphModel dx="1626" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Sl6KtLS2kzQeeiIvNs0Q-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="374" y="70" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Sl6KtLS2kzQeeiIvNs0Q-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="660" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Sl6KtLS2kzQeeiIvNs0Q-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="374" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Sl6KtLS2kzQeeiIvNs0Q-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="90" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
