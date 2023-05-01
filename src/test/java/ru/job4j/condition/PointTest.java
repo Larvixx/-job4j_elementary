@@ -7,33 +7,27 @@ public class PointTest {
     @Test
     public void when1020to4060then50() {
         double expected = 50;
-        int x1 = 10;
-        int y1 = 20;
-        int x2 = 40;
-        int y2 = 60;
-        double out = Point.distance(x1, y1, x2, y2);
+        Point a = new Point(10, 20);
+        Point b = new Point(40, 60);
+        double out = a.distance(b);
         Assert.assertEquals(expected, out, 0.01);
     }
 
     @Test
     public void when2030to5070then50() {
         double expected = 50;
-        int x1 = 20;
-        int y1 = 30;
-        int x2 = 50;
-        int y2 = 70;
-        double out = Point.distance(x1, y1, x2, y2);
+        Point a = new Point(20, 30);
+        Point b = new Point(50, 70);
+        double out = a.distance(b);
         Assert.assertEquals(expected, out, 0.01);
     }
 
     @Test
     public void when2533to7745then53dot37() {
         double expected = 53.36;
-        int x1 = 25;
-        int y1 = 33;
-        int x2 = 77;
-        int y2 = 45;
-        double out = Point.distance(x1, y1, x2, y2);
+        Point a = new Point(25, 33);
+        Point b = new Point(77, 45);
+        double out = a.distance(b);
         Assert.assertEquals(expected, out, 0.01);
     }
 
