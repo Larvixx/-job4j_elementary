@@ -21,3 +21,4 @@ public class SimpleStringEncoder {
         return counter == 1 ? result + symbol : result + symbol + Integer.toString(counter);
     }
 }
+1
