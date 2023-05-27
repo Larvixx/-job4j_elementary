@@ -10,8 +10,8 @@ public class Task18 {
         double perimetr = 4 * a;
         double dlinna = 2 * (Math.PI) * r;
         double circle = Math.PI * Math.pow(r, 2);
-        String out = String.format("%.1f%n%.1f%n%.1f"
-                , perimetr, dlinna, circle);
+        String out = String.format("%.1f%n%.1f%n%.1f",
+                perimetr, dlinna, circle);
         System.out.println(out);
     }
 }
