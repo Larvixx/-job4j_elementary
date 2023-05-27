@@ -61,4 +61,3 @@ class SimpleStringEncoderTest {
         assertThat(result).isEqualTo(expected);
     }
 }
-1
