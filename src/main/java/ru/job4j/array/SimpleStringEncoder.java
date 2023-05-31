@@ -20,4 +20,4 @@ public class SimpleStringEncoder {
         }
         return rsl(counter, result, symbol);
     }
-}
+}1
