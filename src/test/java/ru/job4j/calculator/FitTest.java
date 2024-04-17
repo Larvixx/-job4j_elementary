@@ -42,7 +42,6 @@ public class FitTest {
         Assert.assertEquals(expected, out, 0.01);
     }
 
-
     @Test
     public void whenMan160Then69() {
         short in = 160;
