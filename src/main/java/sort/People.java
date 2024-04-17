@@ -1,4 +1,4 @@
-package Sort;
+package sort;
 
 public class People implements Comparable<People> {
     private String name;
@@ -28,7 +28,8 @@ public class People implements Comparable<People> {
 
     @Override
     public String toString() {
-        return "name= " + name + "---" +
+        return "name= " + name + "---"
+                +
                 " age=" + age + System.lineSeparator();
     }
 

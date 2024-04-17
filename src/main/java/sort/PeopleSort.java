@@ -1,8 +1,6 @@
-package Sort;
+package sort;
 
-import java.sql.Array;
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.List;
 
 public class PeopleSort {
